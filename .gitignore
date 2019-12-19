@@ -1,0 +1,23 @@
+# JetBrains stuff
+/.idea/
+*.ipr
+*.iml
+
+# Compilation output
+/target/
+/build/
+/out/
+/bin/
+/classes/
+
+# Gradle stuff
+/.gradle/
+
+# Eclipse stuff
+/.settings/
+.classpath
+.project
+
+# MinecraftForge
+/eclipse/
+/run/

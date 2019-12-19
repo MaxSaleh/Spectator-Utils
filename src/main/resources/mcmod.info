@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "Spectator-Utils",
+    "name": "Spectator Utils",
+    "description": "This is a mod which allows you to go into spectator and be able to view other players inventory, health, item their holding and etc.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://arsenalnetwork.net/",
+    "updateUrl": "https://github.com/MaxSaleh/Spectator-Utils",
+    "authorList": [
+      "MaxIsH0t"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
