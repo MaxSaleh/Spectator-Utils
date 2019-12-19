@@ -16,7 +16,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class SpectatorUtils
 {
 
-    public static final String MOD_ID = "Spectator-Utils";
+    public static final String MOD_ID = "spectatorutils";
     public static final String MOD_NAME = "Spectator Utils";
     public static final String VERSION = "2019.3-1.3.2";
 
